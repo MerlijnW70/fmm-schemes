@@ -3,7 +3,8 @@ message: "If you use these schemes, please cite them as below."
 title: "New fast matrix multiplication schemes"
 type: dataset
 authors:
-  - name: "Merlijn W."
+  - family-names: "Witteveen"
+    given-names: "Merlijn S."
 date-released: 2026-09-24
 version: "1.0"
 license: CC-BY-4.0
