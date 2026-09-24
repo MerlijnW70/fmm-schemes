@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use these schemes, please cite them as below."
+title: "New fast matrix multiplication schemes"
+type: dataset
+authors:
+  - name: "Merlijn W."
+date-released: 2026-09-24
+version: "1.0"
+license: CC-BY-4.0
+repository-code: "https://github.com/MerlijnW70/fmm-schemes"
+keywords:
+  - fast matrix multiplication
+  - bilinear algorithms
+  - tensor rank
+  - ternary coefficients

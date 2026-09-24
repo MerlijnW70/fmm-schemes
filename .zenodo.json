@@ -1,0 +1,19 @@
+{
+  "title": "New fast matrix multiplication schemes",
+  "upload_type": "dataset",
+  "description": "Bilinear matrix multiplication schemes with coefficients in {-1, 0, 1}. Below the best known rank in any ring: 11x13x15 with 1364, 11x14x14 with 1373. First ternary schemes at the best known rank: 7x7x9 with 315. 14 further ternary records. Every file satisfies the Brent equations exactly; verify.py checks them with exact rational arithmetic.",
+  "creators": [
+    {
+      "name": "W., Merlijn"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "version": "1.0",
+  "publication_date": "2026-09-24",
+  "keywords": [
+    "fast matrix multiplication",
+    "bilinear algorithms",
+    "tensor rank",
+    "ternary coefficients"
+  ]
+}
