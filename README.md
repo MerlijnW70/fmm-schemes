@@ -1,8 +1,10 @@
 # New fast matrix multiplication schemes
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22943995.svg)](https://doi.org/10.5281/zenodo.22943995)
+
 Bilinear schemes for multiplying an n1×n2 matrix by an n2×n3 matrix, all with coefficients in {-1, 0, 1} (ZT), which makes them valid over any ring.
 
-Previous values are the lower of the [FastMatrixMultiplication](https://github.com/dronperminov/FastMatrixMultiplication) table as of 2026-09-19 and the [Sedoglavic catalogue](https://fmm.univ-lille.fr/) as of 2026-09-24.
+Previous values are the lower of the [FastMatrixMultiplication](https://github.com/dronperminov/FastMatrixMultiplication) table as of 2026-09-26 and the [Sedoglavic catalogue](https://fmm.univ-lille.fr/) as of 2026-09-27.
 
 ## Below the best known rank in any ring
 
@@ -26,15 +28,23 @@ Previous values are the lower of the [FastMatrixMultiplication](https://github.c
 | 2×13×16 | 324 | 325 | 320 |
 | 2×14×16 | 348 | 350 | 344 |
 | 2×15×16 | 374 | 375 | 368 |
+| 4×11×15 | 457 | 458 | 449 |
+| 6×11×11 | 492 | 496 | 490 |
+| 7×9×14 | 599 | 600 | 597 |
+| 6×11×14 | 617 | 621 | 613 |
 | 7×9×15 | 638 | 639 | 634 |
 | 9×11×13 | 840 | 843 | 835 |
-| 8×11×16 | 909 | 914 | 904 |
-| 9×14×16 | 1269 | 1270 | 1254 |
+| 8×11×16 | 906 | 914 | 904 |
+| 9×14×16 | 1260 | 1270 | 1254 |
+| 9×15×15 | 1269 | 1276 | 1236 |
+| 8×16×16 | 1256 | 1260 | 1230 |
 | 12×12×15 | 1326 | 1332 | 1280 |
 | 10×14×16 | 1416 | 1418 | 1398 |
-| 11×15×16 | 1647 | 1657 | 1605 |
+| 12×13×15 | 1464 | 1470 | 1442 |
+| 11×15×15 | 1547 | 1548 | 1540 |
+| 11×15×16 | 1641 | 1657 | 1605 |
 | 11×16×16 | 1749 | 1752 | 1724 |
-| 13×14×16 | 1811 | 1820 | 1796 |
+| 13×14×16 | 1806 | 1820 | 1796 |
 
 ## Files
 
