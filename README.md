@@ -4,12 +4,13 @@
 
 Bilinear schemes for multiplying an n1×n2 matrix by an n2×n3 matrix, all with coefficients in {-1, 0, 1} (ZT), which makes them valid over any ring.
 
-Previous values are the lower of the [FastMatrixMultiplication](https://github.com/dronperminov/FastMatrixMultiplication) table as of 2026-09-26 and the [Sedoglavic catalogue](https://fmm.univ-lille.fr/) as of 2026-09-27.
+Previous values are the lower of the [FastMatrixMultiplication](https://github.com/dronperminov/FastMatrixMultiplication) table as of 2026-09-29 and the [Sedoglavic catalogue](https://fmm.univ-lille.fr/) as of 2026-09-30. Values that the table took over from earlier releases of this dataset are not counted as previous values.
 
 ## Below the best known rank in any ring
 
 | Format | Rank | Previous best (any ring) | Previous ZT |
 |---|---|---|---|
+| 7×11×15 | **772** | 777 | 778 |
 | 11×13×15 | **1364** | 1371 | 1377 |
 | 11×14×14 | **1373** | 1376 | 1376 |
 
@@ -26,11 +27,10 @@ Previous values are the lower of the [FastMatrixMultiplication](https://github.c
 | 2×12×15 | 280 | 281 | 278 |
 | 2×13×15 | 304 | 305 | 300 |
 | 2×13×16 | 324 | 325 | 320 |
-| 2×14×16 | 348 | 350 | 344 |
 | 2×15×16 | 374 | 375 | 368 |
 | 4×11×15 | 457 | 458 | 449 |
 | 6×11×11 | 492 | 496 | 490 |
-| 7×9×14 | 599 | 600 | 597 |
+| 7×9×14 | 598 | 600 | 597 |
 | 6×11×14 | 617 | 621 | 613 |
 | 7×9×15 | 638 | 639 | 634 |
 | 9×11×13 | 840 | 843 | 835 |
@@ -43,8 +43,9 @@ Previous values are the lower of the [FastMatrixMultiplication](https://github.c
 | 12×13×15 | 1464 | 1470 | 1442 |
 | 11×15×15 | 1547 | 1548 | 1540 |
 | 11×15×16 | 1641 | 1657 | 1605 |
+| 13×13×16 | 1709 | 1711 | 1704 |
 | 11×16×16 | 1749 | 1752 | 1724 |
-| 13×14×16 | 1806 | 1820 | 1796 |
+| 13×14×16 | 1805 | 1820 | 1796 |
 
 ## Files
 
