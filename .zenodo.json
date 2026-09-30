@@ -1,14 +1,15 @@
 {
   "title": "New fast matrix multiplication schemes",
   "upload_type": "dataset",
-  "description": "Bilinear matrix multiplication schemes with coefficients in {-1, 0, 1}. Below the best known rank in any ring: 7x11x15 with 772, 11x13x15 with 1364, 11x14x14 with 1373. First ternary scheme at the best known rank: 7x7x9 with 315. 22 further ternary records. Every file satisfies the Brent equations exactly; verify.py checks them with exact rational arithmetic.",
+  "description": "Bilinear matrix multiplication schemes with coefficients in {-1, 0, 1}. Below the best known rank in any ring: 7x7x9 with 314, 6x11x13 with 572, 8x10x13 with 684, 8x10x14 with 724, 7x11x15 with 769, 9x11x13 with 833, 10x13x14 with 1150, 11x13x15 with 1362, 11x14x14 with 1367, 13x13x15 with 1591. 21 further ternary records. Every file satisfies the Brent equations exactly; verify.py checks them with exact rational arithmetic.",
   "creators": [
     {
-      "name": "Witteveen, Merlijn S."
+      "name": "Witteveen, Merlijn S.",
+      "orcid": "0009-0009-7056-7305"
     }
   ],
   "license": "cc-by-4.0",
-  "version": "1.2",
+  "version": "1.3",
   "publication_date": "2026-09-30",
   "keywords": [
     "fast matrix multiplication",

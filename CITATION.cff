@@ -5,8 +5,9 @@ type: dataset
 authors:
   - family-names: "Witteveen"
     given-names: "Merlijn S."
+    orcid: "https://orcid.org/0009-0009-7056-7305"
 date-released: 2026-09-30
-version: "1.2"
+version: "1.3"
 doi: "10.5281/zenodo.22943995"
 license: CC-BY-4.0
 repository-code: "https://github.com/MerlijnW70/fmm-schemes"
